@@ -85,4 +85,9 @@ int main(){
 			cout <<RWa2c[q] << " | ";
 			q++;
 		}while(q<5);cout << endl;
+	int r=0;
+		do {
+			cout <<RWa3c[r] << " | ";
+			r++;
+		}while(r<5);cout << endl;
 }
